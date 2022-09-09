@@ -87,12 +87,4 @@ public class Blackjack {
 
 		}
 	}
-}
-
-//for (int i = 1; i < 14; i++) {
-//if (x < i * 7.69 && x > i-1 * 7.69) {
-//	firstcard = i;
-//}
-//if (y < i * 7.69 && y > i-1 * 7.69) {
-//	secondcard = i;
-//}		
+}	
